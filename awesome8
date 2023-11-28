@@ -32,7 +32,7 @@
  /*---------------BASIC---------------*/
  .theme-dark {
    --accent-color: #7600e4;
-   --background-1: #171d20;
+   --background-1: #1b1720;
    --background-2: #080a0a;
    --background-accent: #1e2529;
    --border-color: #273034;

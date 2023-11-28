@@ -41,9 +41,12 @@
  .theme-dark {
    /* background */
    --background-primary: var(--background-1);
-   --background-primary-alt: var(--background-1);
-   --background-secondary: var(--background-1);
-   --background-secondary-alt: var(--background-1);
+   /* --background-primary-alt: var(--background-1); */
+   --background-primary-alt: #ff0000;
+   /* --background-secondary: var(--background-1); */
+   --background-secondary: #ff00c3;
+   /* --background-secondary-alt: var(--background-1); */
+   --background-secondary-alt: #15ff00;
    --background-tertiary: var(--background-2);
    --background-accent-gradient: var(--background-2);
    --background-floating: var(--background-1);

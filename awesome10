@@ -34,32 +34,32 @@
    --accent-color: #7600e4;
    --background-1: #202020;
    --background-2: #080a0a;
-   --background-accent: #1e2529;
-   --border-color: #273034;
+   --background-accent: #2b2b2b;
+   --border-color: #353535;
  }
  /*-------------ADVANCED--------------*/
  .theme-dark {
    /* background */
    --background-primary: var(--background-1);
    --background-primary-alt: var(--background-1);
-   --background-secondary: #151718;
-   --background-secondary-alt: #0d0f0f;
+   --background-secondary: #1b1b1b;
+   --background-secondary-alt: #0f0f0f;
    --background-tertiary: var(--background-2);
    --background-accent-gradient: var(--background-2);
    --background-floating: var(--background-1);
-   --background-mentioned: #bde6fb10;
-   --background-mentioned-hover: #bde6fb15;
+   --background-mentioned: #dabdfb10;
+   --background-mentioned-hover: #d9bdfb15;
    /* modifiers */
-   --background-modifier-hover: #262e33;
-   --background-modifier-active: #495a63;
+   --background-modifier-hover: #2d2633;
+   --background-modifier-active: #574963;
    --background-modifier-selected: var(--accent-color);
    --background-modifier-accent: transparent;
    --background-message-hover: transparent;
    /* text */
    --text-normal: var(--accent-color);
    --text-positive: var(--text-normal);
-   --text-muted: #6d8692;
-   --text-link: #edf8fe;
+   --text-muted: #806d92;
+   --text-link: #f7edfe;
    --interactive-selected: var(--background-primary);
    --interactive-active: #000000;
    --interactive-normal: var(--text-normal);
@@ -71,16 +71,16 @@
    --settings-icon-color: #aa8ebc;
    --control-brand-foreground: var(--accent-color);
    --info-warning-foreground: var(--accent-color);
-   --tab-selected: #354249;
-   --switch: #3d4c53;
+   --tab-selected: #3d3549;
+   --switch: #4a3d53;
    --activity-card-background: var(--background-1);
    --brand-experiment: var(--accent-color) !important;
    /* buttons */
-   --button-background: #2a3439;
-   --button-background-hover: #354249;
-   --button-background-active: #4d5f68;
+   --button-background: #332a39;
+   --button-background-hover: #403549;
+   --button-background-active: #5c4d68;
    --button-accent: var(--accent-color);
-   --button-accent-hover: #d2f3ff;
+   --button-accent-hover: #eed2ff;
    --button-accent-active: #c88df8;
    --button-destructive: #fb7c7c;
    --button-destructive-hover: #ff929b;

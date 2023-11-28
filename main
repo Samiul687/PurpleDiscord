@@ -158,10 +158,22 @@
 
  /*Home Button*/
 
- .homeIcon-r0w4ny path {fill: transparent}
+.wrapper_d281dd path {
 
- .homeIcon-r0w4ny {
-    background: url('https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZzh1dWh1ajBsMndydWplMmwxZDFsYWk1ZGk2OTdvMjBsaXhjMnhvZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/8TbrUK3MOdGmtacfjK/giphy.gif') center/cover no-repeat;
-    min-width: 50px;
-    min-height: 50px;
-  }
+display: none;
+
+}
+
+.wrapper_d281dd.selected_f5ec8e .childWrapper__01b9c, .wrapper_d281dd .childWrapper__01b9c {
+
+background: url('https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZzh1dWh1ajBsMndydWplMmwxZDFsYWk1ZGk2OTdvMjBsaXhjMnhvZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/8TbrUK3MOdGmtacfjK/giphy.gif') center/cover no-repeat;
+
+/*Change the icon size*/
+
+background-size: 80%;
+
+min-width: 60px;
+
+min-height: 60px;
+
+}

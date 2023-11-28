@@ -33,7 +33,7 @@
  .theme-dark {
    --accent-color: #7600e4;
    --background-1: #171d20;
-   --background-2: #00a2ff;
+   --background-2: #000000;
    --background-accent: #1e2529;
    --border-color: #273034;
  }
@@ -43,7 +43,7 @@
    --background-primary: var(--background-1);
    --background-primary-alt: var(--background-1);
    --background-secondary: #151718;
-   --background-secondary-alt: #000000;
+   --background-secondary-alt: #0d0f0f;
    --background-tertiary: var(--background-2);
    --background-accent-gradient: var(--background-2);
    --background-floating: var(--background-1);
